@@ -6,7 +6,7 @@
     "name": "Jozef Daxner"
   },
   "description": "Implementation of own components for multiple types of fields.",
-  "displayName": "FC demo",
+  "displayName": "Field-components demo",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
